@@ -1,0 +1,19 @@
+Assignment 2.1 : Describe the main users for the HealthSync Application
+
+HealthSync is designed for multiple types of users involved in healthcare services. Each user has different needs, frustrations, and goals.
+Main User Types
+
+Patients
+People who want to book appointments, consult doctors online, track health records, and order medicines.
+
+Doctors
+Medical professionals who manage patient appointments, prescriptions, consultation history, and schedules.
+
+Caregivers
+Family members who manage healthcare activities for elderly parents or children.
+
+Rural / Elderly Users
+Users with low digital literacy who need simple interfaces, larger text, and multilingual support.
+
+Admin / Platform Managers
+People responsible for managing analytics, doctor approvals, complaints, and overall platform operations.

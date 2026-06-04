@@ -1,0 +1,118 @@
+Assignment 2.2 : Create 3 user personas with their goals  , pain points , behavior , how will they use the application and problems.
+
+
+Persona 1 – Priya Sharma (Patient)
+
+Name: Priya Sharma
+Age: 34
+Profession: Marketing Manager
+Location: Ahmedabad, Gujarat
+
+Goals :
+Book doctor appointments quickly
+Track health reports in one place
+Consult doctors online during busy schedules
+Receive reminders for medicines and health checkups
+
+Pain Points :
+Too many healthcare apps for different tasks
+Confusing medical terms in reports
+Long appointment booking processes
+Forgetting medicine schedules because of workload
+
+Behavior : 
+Uses smartphone daily for work and shopping
+Comfortable with digital payments and apps
+Prefers clean and fast interfaces
+Uses apps mostly at night after work
+
+How Priya Uses HealthSync :
+
+Priya uses HealthSync to:
+Book appointments within a few clicks
+Attend telehealth consultations from home
+Store lab reports digitally
+Get AI-powered health summaries in simple language
+Receive smart health reminders and wellness tips
+
+Key Problems for Priya :
+Managing healthcare with a busy work schedule
+Understanding technical health reports
+Switching between multiple healthcare apps
+
+Persona 2 – Dr. Raj Mehta (Doctor)
+
+Name: Dr. Raj Mehta
+Age: 48
+Profession: Cardiologist
+Location: Mumbai, Maharashtra
+
+Goals :
+Manage patient appointments efficiently
+Access patient history quickly
+Write prescriptions faster
+Reduce administrative workload
+
+Pain Points:
+Slow hospital management systems
+Too many notifications and patient records
+Time wasted during manual prescription writing
+Difficulty handling both online and offline consultations
+
+Behavior :
+Uses laptop and tablet during work
+Prefers systems that save time
+Works with multiple patients throughout the day
+Needs quick-access dashboards and organized workflows
+
+How Dr. Mehta Uses HealthSync :
+
+Dr. Mehta uses HealthSync to:
+Manage schedules and appointments
+Conduct telehealth consultations
+Access patient records instantly
+Use voice-to-text prescription writing
+Receive alerts about patient reports and appointments
+
+Key Problems for Dr. Mehta :
+Handling heavy patient workload
+Maintaining fast consultation speed
+Managing multiple healthcare systems together
+
+Persona 3 – Anita Verma (Caregiver)
+
+Name: Anita Verma
+Age: 42
+Profession: School Teacher
+Location: Jaipur, Rajasthan
+
+Goals :
+Monitor her elderly father’s health
+Track medicine schedules and appointments
+Access reports remotely
+Get alerts during emergencies
+
+Pain Points :
+Managing multiple family health records
+Forgetting appointment dates
+Difficulty understanding medical updates
+Stress during emergency situations
+
+Behavior :
+Uses apps mainly for communication and payments
+Moderate technical knowledge
+Prefers simple navigation and reminders
+Frequently checks notifications
+
+How Anita Uses HealthSync :
+Anita uses HealthSync to:
+Manage multiple family profiles
+Monitor vital reports remotely
+Set medicine and appointment reminders
+Book telehealth consultations for her father
+Share reports directly with doctors
+
+Key Problems for Anita :
+Managing healthcare responsibilities alone
+Organizing reports and prescriptions
+Ensuring timely medication and consultations

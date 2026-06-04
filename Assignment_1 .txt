@@ -1,0 +1,55 @@
+Assignment 1: Project Understanding & Problem Definition
+
+1. What is HealthSync?
+
+It is healthcare based platform which make healthcare services easier , faster and accessible to everyone.
+It connects patients, doctors , pharamcists and adminstrations into one single platform.
+It is used for booking appointments , maintaining appointments and health records as well as blood reports.
+
+2. What Problem is HealthSync Solving?
+
+Healthcare systems today often create frustration for users because many services are slow, confusing, and disconnected. HealthSync aims to solve these real-world problems:
+1. Complicated Appointment Booking
+Many healthcare apps require too many steps to book a doctor appointment. Users often leave the process halfway because it feels confusing or time-consuming.
+2. Scattered Healthcare Information
+Patients usually need different apps or papers for prescriptions, reports, medicines, and consultations. This creates stress and poor management of health records.
+3. Medical Jargon Confuses Users
+Most lab reports and medical documents contain difficult medical terms that normal users cannot understand easily.
+4. Lack of Accessibility for Rural and Elderly Users
+Many healthcare platforms are not designed for people with low digital literacy, smaller devices, slow internet, or elderly users who 
+5. Low User Engagement in Health Tracking
+People often stop using health apps because they are boring, complex, or do not provide personalized motivation.
+
+
+3. Why Would Users Use HealthSync?
+
+For Patients : 
+Everything is available in one app — appointments, telehealth, medicines, reports, and health tracking.
+AI-powered health summaries help users understand reports in simple language.
+Faster appointment booking saves time.
+Telehealth allows users to consult doctors from home.
+Easy-to-use interface reduces confusion for elderly and rural users.
+
+For Doctors :
+
+Quick access to patient history and records.
+Faster prescription writing through voice-to-text features.
+Better schedule management and appointment handling.
+Reduced administrative workload.
+
+For the Platform / Company :
+
+Higher user retention through AI engagement features.
+Better customer satisfaction due to smoother UX.
+Increased trust because of accessibility and user-focused design.
+Improved healthcare service efficiency and scalability.
+
+
+4. Business Goals : 
+
+1. Increase User Retention
+The company wants users to continuously use the platform through AI nudges, personalized health tracking, and better user experience.
+2. Reduce Appointment Drop-Off Rate
+HealthSync aims to simplify booking flows so more users complete appointments instead of abandoning them midway.
+3. Build a Strong Digital Healthcare Brand
+The platform wants to establish itself as a trusted healthcare technology solution in the rapidly growing Indian digital health market.
